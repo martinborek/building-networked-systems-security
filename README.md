@@ -1,4 +1,4 @@
-# building-networked-systems-security
+# Building Networked Systems Security
 
 Secure networked system built for the project based course "Building Networked Systems Security", taken at KTH Royal Institute of Technology in 2016.
 
